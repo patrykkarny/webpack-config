@@ -1,0 +1,32 @@
+# Numerous always-ignore extensions
+*.diff
+*.err
+*.orig
+*.log
+*.rej
+*.swo
+*.swp
+*.vi
+*~
+*.sass-cache
+
+# OS or Editor folders
+.DS_Store
+.cache
+.project
+.settings
+.tmproj
+nbproject
+Thumbs.db
+.idea/*
+.vscode
+
+# Tern-js
+.tern-project
+
+# NPMs
+node_modules/
+npm-debug.log
+
+dist/
+/.env
